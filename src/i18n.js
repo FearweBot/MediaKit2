@@ -1,0 +1,1 @@
+// Conteúdo placeholder para i18n.js

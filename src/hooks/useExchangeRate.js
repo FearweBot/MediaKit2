@@ -1,0 +1,1 @@
+// Conteúdo placeholder para useExchangeRate.js
